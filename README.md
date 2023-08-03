@@ -25,4 +25,7 @@ Un fichier d'1 an de consommation, fourni par @MathieuMf (https://twitter.com/Ma
 # Vous voulez contribuer ?
 N'hésitez pas. Un nettoyage du code, une refactorisation, une interface graphique, une intégration web, une extension à d'autres forfaits, ou même une critique constructive, tout sera apprécié :-)
 
-Merci Nicolas Automme / @autommen (https://twitter.com/autommen ) pour l'idée originale
+# Remerciements
+Nicolas Automme / @autommen (https://twitter.com/autommen ) pour l'idée originale
+@MathieuMf pour ses données
+les membres du discord des Voix du Nucléaire pour leurs encouragements
