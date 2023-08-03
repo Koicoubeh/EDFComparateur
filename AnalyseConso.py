@@ -41,6 +41,8 @@ chemin_csv = "consoexemple.csv"
 # Prix des différents W.h. Faire un XML/YAML/Json ?
 # Attention, les données d'origine sont pour des kW.h mais les données du CSV son des W.h
 # Données d'origine  https://particulier.edf.fr/content/dam/2-Actifs/Documents/Offres/Grille_prix_Tarif_Bleu.pdf
+# Tarifs au 01/08/2023
+
 TempoBleuHC = 0.1056
 TempoBleuHP = 0.1369
 TempoBlancHC = 0.1246
