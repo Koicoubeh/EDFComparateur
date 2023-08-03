@@ -4,9 +4,14 @@ Ce programme permet de simuler le coût total d'une période de consommation él
  - l'abonnement Heures Creuses / Heures Pleines
  - l'abonnement Tempo
 
-Il nécessite d'entrer un fichier CSV de la consommation, au pas horaire (et même demi-horaire), disponible sur le site d'Enedis
+Il nécessite d'entrer un fichier CSV de la consommation, au pas horaire (et même demi-horaire), disponible sur le site d'Enedis (quand il fonctionne -_-)
 
-Il prend en compte les jours bleu/blanc/rouge du tarif Tempo depuis le 01/09/2014
+Il prend en compte les jours bleu/blanc/rouge du tarif TEMPO depuis le 01/09/2014
+
+# Les fichiers utilisés :
+AnalyseConso.py : le programme, à exécuter sans paramètres
+consoexemple.csv : fichier d'exemple à fournir au programme pour calculer les prix
+calBAR.csv : historique des jours et leur couleur associée pour le forfait TEMPO
 
 # Ressources utilisées :
 Tarifs EDF, disponibles à l'adresse suivante https://particulier.edf.fr/content/dam/2-Actifs/Documents/Offres/Grille_prix_Tarif_Bleu.pdf
