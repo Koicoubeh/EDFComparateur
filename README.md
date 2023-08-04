@@ -1,8 +1,9 @@
 # Description
-Ce programme permet de simuler le coût total d'une période de consommation électrique, selon 3 forfaits EDF :
+Ce programme permet de simuler le coût total d'une période de consommation électrique, selon 4 forfaits EDF :
  - l'abonnement base
  - l'abonnement Heures Creuses / Heures Pleines
  - l'abonnement Tempo
+ - l'abonnement Zen Flex
 
 Il nécessite d'entrer un fichier CSV de la consommation, au pas horaire (et même demi-horaire), disponible sur le site d'Enedis (quand il fonctionne -_-)
 
