@@ -19,6 +19,8 @@
 # - Première version fonctionnelle
 # v1.1 : 2023-08-04
 # - Ajout de l'abonnement ZenFlex
+# v1.2 : 2024-01-27
+# - Mise à jour des tarifs pour le 2024-02-01
 #
 #################################################################################################
 
@@ -55,27 +57,27 @@ chemin_csv = "consoexemple.csv"
 
 # Prix des différents W.h. Faire un XML/YAML/Json ?
 # Attention, les données d'origine sont pour des kW.h mais les données du CSV son des W.h
-# Données d'origine  https://particulier.edf.fr/content/dam/2-Actifs/Documents/Offres/Grille_prix_Tarif_Bleu.pdf
-# Tarifs au 01/08/2023
+# Données d'origine https://www.revolution-energetique.com/voici-les-nouveaux-prix-de-lelectricite-en-france-au-1-fevrier-2024/
+# Tarifs au 01/02/2024
 
-TempoBleuHC = 0.1056
-TempoBleuHP = 0.1369
-TempoBlancHC = 0.1246
-TempoBlancHP = 0.1654
-TempoRougeHC = 0.1328
-TempoRougeHP = 0.7324
+TempoBleuHC = 0.1296
+TempoBleuHP = 0.1609
+TempoBlancHC = 0.1486
+TempoBlancHP = 0.1894
+TempoRougeHC = 0.1568
+TempoRougeHP = 0.7564
 AboTempo6kva = 12.8
 AboTempo9kva = 16.0
 AboTempo12kva = 19.29
 
-BleuBase = 0.2276
+BleuBase = 0.2516
 AboBleu3kva = 9.47
 AboBleu6kva = 12.44
 AboBleu9kva = 15.63
 AboBleu12kva = 18.89
 
-BleuHC = 0.1828
-BleuHP = 0.246
+BleuHC = 0.2068
+BleuHP = 0.27
 AboHC6kva = 12.85
 AboHP9kva = 16.55
 AboHP12kva = 19.97
